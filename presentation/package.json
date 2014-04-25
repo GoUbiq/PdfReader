@@ -1,0 +1,15 @@
+{
+  "name": "presentation",
+  "subdomain": "sumit_psp-presentation",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "0.0.0-9",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "formidable": "1.0.x",
+    "multiparty": "*"
+  }
+}
